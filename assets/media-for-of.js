@@ -8,4 +8,5 @@ for (let nota of notas) {
 
 const media = somaDasNotas / notas.length;
 
+
 console.log(`A média das notas é ${media}.`);
